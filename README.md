@@ -7,7 +7,7 @@
 </p>
 
 - 👨‍💻 Full-Stack Developer
-- 🇨🇦 living in Toronto 
+- 🇨🇦 live in Toronto 
 - 📝 Exploring technical content writing
 
 <hr>
