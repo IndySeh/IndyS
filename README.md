@@ -7,8 +7,10 @@
 </p>
 
 - 👨‍💻 Full-Stack Developer
-- 🍁living in Toronto 🇨🇦
-- 
+- 🇨🇦 living in Toronto 
+- 📝 Exploring technical content writing
+
+<hr>
 
 
 <!--
