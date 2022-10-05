@@ -6,6 +6,9 @@
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
 
+- 👨‍💻 Full-Stack Developer
+- 🍁living in Toronto 🇨🇦
+- 
 
 
 <!--
