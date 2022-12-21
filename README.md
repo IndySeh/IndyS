@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
 <a href="https://www.instagram.com/toronto.dev/">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
+<a href="https://www.torontodev.co/">
+<img src="https://img.shields.io/badge/-Website-white" alt="Instagram" /></a> 
 </p>
 
 - 👨‍💻 Full-Stack Developer
