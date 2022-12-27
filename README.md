@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-Website-white" alt="Instagram" /></a> 
 </p>
 
-- 👨‍💻 Full-Stack Developer
+- 👨‍💻 Developer
 - 🇨🇦 live in Toronto 
 - 📝 Exploring technical content writing
 
